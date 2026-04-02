@@ -7,10 +7,10 @@ I'm a seasoned Business Information Technology Specialist with expertise that li
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Caytrades&&show_icons=true&theme=radical"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=CayOpoku&&show_icons=true&theme=radical"/>
   </a>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Caytrades&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CayOpoku&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -60,7 +60,7 @@ I'm a seasoned Business Information Technology Specialist with expertise that li
 <br>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Caytrades/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/CayOpoku/count.svg?"  />
 </div>
 
 ###
@@ -69,7 +69,7 @@ I'm a seasoned Business Information Technology Specialist with expertise that li
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Caytrades/Caytrades/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Caytrades/Caytrades/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Caytrades/Caytrades/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CayOpoku/CayOpoku/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CayOpoku/CayOpoku/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CayOpoku/CayOpoku/output/github-contribution-grid-snake.svg">
 </picture>
